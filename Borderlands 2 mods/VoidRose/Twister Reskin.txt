@@ -1,6 +1,6 @@
 ######Twister Reskin#######
 by VoidRose
-
+Comment- The Twister has that singularity effect from another mod that a fellow moder made, so it's not a Twister anymore. Just a note. The Twister's skin looks off as well, the other 2 guns are fine. 
 #### not as good as daves stuff but its pretty cool ####
 set GD_Sage_Weapons.Shotgun.SG_Barrel_Torgue_Twister CustomFiringModeDefinition FiringModeDefinition'GD_Weap_Launchers.FiringModes.FM_Rocket_Maliwan_TheHive'
 
